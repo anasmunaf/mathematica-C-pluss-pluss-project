@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1557935666 source:d:\dha suffa\object oriented programming\projectfiles\axisx.cpp
+	"axisX.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<math.h>
+
+1559202989 d:\dha suffa\object oriented programming\projectfiles\axisx.h
+	"Axis.h"
+
+1557952824 source:d:\dha suffa\object oriented programming\projectfiles\axisy.cpp
+	"axisY.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<math.h>
+
+1559203055 d:\dha suffa\object oriented programming\projectfiles\axisy.h
+	"Axis.h"
+
+1558073890 source:d:\dha suffa\object oriented programming\projectfiles\main.cpp
+	<iostream>
+	"Graph.h"
+
+1559163280 source:d:\dha suffa\object oriented programming\projectfiles\graph.cpp
+	<exception>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<math.h>
+	<string>
+	"Graph.h"
+
+1559203891 d:\dha suffa\object oriented programming\projectfiles\graph.h
+	<iostream>
+	"Parabola.h"
+
+1559204174 d:\dha suffa\object oriented programming\projectfiles\parabola.h
+	"Axis.h"
+	"axisX.h"
+	"axisY.h"
+
+1559204110 source:d:\dha suffa\object oriented programming\projectfiles\parabola.cpp
+	"Parabola.h"
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+
+1559204238 d:\dha suffa\object oriented programming\projectfiles\axis.h
+
+1559204206 source:d:\dha suffa\object oriented programming\projectfiles\axis.cpp
+	"Axis.h"
+
+1559204206 source:d:\dha suffa\object oriented programming\project\projectfiles\axis.cpp
+	"Axis.h"
+
+1559204238 d:\dha suffa\object oriented programming\project\projectfiles\axis.h
+
+1557935666 source:d:\dha suffa\object oriented programming\project\projectfiles\axisx.cpp
+	"axisX.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<math.h>
+
+1559202989 d:\dha suffa\object oriented programming\project\projectfiles\axisx.h
+	"Axis.h"
+
+1557952824 source:d:\dha suffa\object oriented programming\project\projectfiles\axisy.cpp
+	"axisY.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<math.h>
+
+1559203055 d:\dha suffa\object oriented programming\project\projectfiles\axisy.h
+	"Axis.h"
+
+1559163280 source:d:\dha suffa\object oriented programming\project\projectfiles\graph.cpp
+	<exception>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<math.h>
+	<string>
+	"Graph.h"
+
+1559203891 d:\dha suffa\object oriented programming\project\projectfiles\graph.h
+	<iostream>
+	"Parabola.h"
+
+1559204174 d:\dha suffa\object oriented programming\project\projectfiles\parabola.h
+	"Axis.h"
+	"axisX.h"
+	"axisY.h"
+
+1558073890 source:d:\dha suffa\object oriented programming\project\projectfiles\main.cpp
+	<iostream>
+	"Graph.h"
+
+1559204524 source:d:\dha suffa\object oriented programming\project\projectfiles\parabola.cpp
+	"Parabola.h"
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+

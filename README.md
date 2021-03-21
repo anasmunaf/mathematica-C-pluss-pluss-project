@@ -3,5 +3,8 @@ This is a copied version of Mathematica. I call it Quadratica. This program is b
 
 Download CodeBlocks. 
 
-Install graphics.h library and setup.
+Install graphics.h library and setup. Google the process of installation. 
 
+After setup, open CodeBlocks and add the project in it. Add the whole directory in it. 
+
+The compile the project and Run it. 
